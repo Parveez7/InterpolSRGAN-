@@ -44,7 +44,7 @@ This project combines ESRGAN (Enhanced Super-Resolution Generative Adversarial N
 
 Here are some example outputs from our combined model:
 
-[(output.png)]
+![Output image](output.png)
 
 ## Performance Metrics
 
